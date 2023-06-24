@@ -1,0 +1,15 @@
+{
+    "sessionExpired": "Session expired",
+    "noInternetConnection": "No Internet",
+    "anErrorOccured": "An error occured",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "emailIsNotValid": "Email is not valid",
+    "mobileIsNotValid": "Mobile is not valid",
+    "minLengthValidator": "must be at least {count}",
+    "maxLengthValidator": "must be at most {count}",
+    "requiredField": "required !",
+    "home": "Home",
+    "language": "Language"
+
+}

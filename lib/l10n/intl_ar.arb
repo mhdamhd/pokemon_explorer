@@ -1,0 +1,16 @@
+{
+    "sessionExpired": "انتهت صلاحية الجلسة",
+    "noInternetConnection": "تحقق من جودة الاتصال بالانترنت",
+    "anErrorOccured": "حدث خطأ ما",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "emailIsNotValid": "البريد الالكتروني غير صالح",
+    "mobileIsNotValid": "رقم الموبايل غير صالح",
+    "minLengthValidator": "على الأقل {count} يجب أن تكون",
+    "maxLengthValidator": "على الأكثر {count} يجب أن تكون",
+    "requiredField": "هذا الحقل مطلوب !",
+    "home": "الرئيسية",
+    "language": "اللغة"
+
+
+}
