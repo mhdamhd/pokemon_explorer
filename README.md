@@ -9,3 +9,9 @@ Features:
 - Repository pattern for organized data management.
 - BLoC (Business Logic Component) for effective state management.
 - Screen Util for responsive design, ensuring optimal layout across various screen sizes.
+
+Contributions:
+
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to create a pull request or submit an issue in the GitHub repository.
+
+Enjoy exploring the world of Pokemon with Pokemon Explorer!
